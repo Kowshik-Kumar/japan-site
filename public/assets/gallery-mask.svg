@@ -1,0 +1,9 @@
+<svg width="800" height="800" viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Folklore mask artwork">
+  <rect width="800" height="800" fill="#f2e7da"/>
+  <ellipse cx="400" cy="410" rx="220" ry="280" fill="#f9f6f2" stroke="#cabaa8" stroke-width="10"/>
+  <ellipse cx="330" cy="370" rx="34" ry="24" fill="#3b3538"/>
+  <ellipse cx="470" cy="370" rx="34" ry="24" fill="#3b3538"/>
+  <path d="M330 520 Q400 590 470 520" stroke="#b9464d" stroke-width="16" fill="none" stroke-linecap="round"/>
+  <circle cx="220" cy="220" r="10" fill="#f7c5cd"/>
+  <circle cx="570" cy="200" r="10" fill="#f7c5cd"/>
+</svg>

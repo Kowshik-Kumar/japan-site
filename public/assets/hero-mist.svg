@@ -1,0 +1,20 @@
+<svg width="1600" height="1000" viewBox="0 0 1600 1000" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Misty Japanese landscape">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f8f4ee"/>
+      <stop offset="100%" stop-color="#ede2d5"/>
+    </linearGradient>
+    <radialGradient id="mist" cx="50%" cy="30%" r="65%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#bg)"/>
+  <path d="M0 700 C220 620 360 650 520 600 C700 545 760 560 960 500 C1160 442 1380 470 1600 390 L1600 1000 L0 1000 Z" fill="#d3c3b2" opacity="0.45"/>
+  <path d="M0 760 C220 695 380 700 560 670 C800 630 930 650 1190 605 C1370 575 1490 585 1600 560 L1600 1000 L0 1000 Z" fill="#baa793" opacity="0.38"/>
+  <ellipse cx="800" cy="360" rx="620" ry="210" fill="url(#mist)"/>
+  <circle cx="220" cy="200" r="6" fill="#c25a5a" opacity="0.5"/>
+  <circle cx="260" cy="240" r="4" fill="#f7c5cd" opacity="0.7"/>
+  <circle cx="1180" cy="180" r="5" fill="#f7c5cd" opacity="0.55"/>
+  <circle cx="1230" cy="220" r="3" fill="#c25a5a" opacity="0.5"/>
+</svg>

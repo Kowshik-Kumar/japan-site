@@ -1,0 +1,11 @@
+<svg width="500" height="350" viewBox="0 0 500 350" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Kimono motif detail">
+  <rect width="500" height="350" fill="#f7efe5"/>
+  <path d="M0 240 C70 200 150 290 230 240 C310 190 390 280 500 225" stroke="#b9464d" stroke-width="9" fill="none"/>
+  <path d="M0 280 C90 240 160 320 250 280 C340 240 410 320 500 275" stroke="#c25a5a" stroke-width="7" fill="none" opacity="0.8"/>
+  <g fill="#f7c5cd" opacity="0.9">
+    <circle cx="70" cy="100" r="18"/>
+    <circle cx="190" cy="120" r="14"/>
+    <circle cx="320" cy="100" r="16"/>
+    <circle cx="430" cy="130" r="15"/>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg width="900" height="600" viewBox="0 0 900 600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Urashima Taro sea illustration">
+  <defs>
+    <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#dae8ea"/>
+      <stop offset="100%" stop-color="#c7d9df"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="600" fill="url(#sea)"/>
+  <path d="M0 310 C130 280 250 330 390 305 C510 285 650 340 900 300" stroke="#7ca3b2" stroke-width="13" fill="none" opacity="0.8"/>
+  <path d="M0 380 C140 350 280 410 410 380 C530 355 680 430 900 375" stroke="#5d8594" stroke-width="12" fill="none" opacity="0.65"/>
+  <ellipse cx="470" cy="340" rx="140" ry="80" fill="#f4f1e8"/>
+  <path d="M350 340 C390 275 550 275 590 340" stroke="#c25a5a" stroke-width="8" fill="none"/>
+  <circle cx="430" cy="330" r="7" fill="#2c353d"/>
+  <circle cx="510" cy="330" r="7" fill="#2c353d"/>
+  <circle cx="190" cy="170" r="8" fill="#f7c5cd"/>
+  <circle cx="730" cy="170" r="8" fill="#f7c5cd"/>
+</svg>

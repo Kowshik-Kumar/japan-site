@@ -1,0 +1,17 @@
+<svg width="900" height="1100" viewBox="0 0 900 1100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Kimono fashion illustration">
+  <defs>
+    <linearGradient id="kbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#efe5d7"/>
+      <stop offset="100%" stop-color="#f7ede3"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1100" fill="url(#kbg)"/>
+  <path d="M220 240 L370 230 L450 500 L530 230 L680 240 L575 950 L325 950 Z" fill="#b9464d" opacity="0.95"/>
+  <path d="M315 950 L440 450 L560 950 Z" fill="#f7c5cd" opacity="0.85"/>
+  <path d="M270 390 L450 490 L630 390" stroke="#f8e5d8" stroke-width="16" fill="none"/>
+  <g stroke="#f5d4c9" stroke-width="6" opacity="0.8">
+    <path d="M280 560 C340 530 380 540 440 560" fill="none"/>
+    <path d="M300 660 C360 630 420 640 490 660" fill="none"/>
+    <path d="M320 760 C380 730 460 730 530 760" fill="none"/>
+  </g>
+</svg>

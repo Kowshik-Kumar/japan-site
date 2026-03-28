@@ -1,0 +1,9 @@
+<svg width="800" height="800" viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Japanese pattern artwork">
+  <rect width="800" height="800" fill="#f7efe4"/>
+  <g stroke="#c25a5a" stroke-width="10" fill="none" opacity="0.95">
+    <path d="M0 200 C100 120 200 280 300 200 C400 120 500 280 600 200 C700 120 780 240 800 200"/>
+    <path d="M0 340 C100 260 200 420 300 340 C400 260 500 420 600 340 C700 260 780 380 800 340"/>
+    <path d="M0 480 C100 400 200 560 300 480 C400 400 500 560 600 480 C700 400 780 520 800 480"/>
+    <path d="M0 620 C100 540 200 700 300 620 C400 540 500 700 600 620 C700 540 780 660 800 620"/>
+  </g>
+</svg>

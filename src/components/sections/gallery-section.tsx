@@ -33,7 +33,7 @@ export function GallerySection() {
                 loading="lazy"
                 className="h-full w-full object-cover transition duration-700 group-hover:scale-110"
               />
-              <figcaption className="absolute inset-x-3 bottom-3 rounded-2xl border border-white/50 bg-white/35 px-4 py-3 text-xs uppercase tracking-[0.24em] text-[var(--charcoal)] opacity-0 backdrop-blur-md transition duration-300 group-hover:opacity-100">
+              <figcaption className="absolute inset-x-3 bottom-3 rounded-2xl border border-white/50 bg-white/35 px-4 py-3 text-xs uppercase tracking-[0.24em] text-white opacity-0 backdrop-blur-md transition duration-300 group-hover:opacity-100">
                 {item.title}
               </figcaption>
             </motion.figure>

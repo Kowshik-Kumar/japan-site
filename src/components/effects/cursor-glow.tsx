@@ -20,11 +20,11 @@ export function CursorGlow() {
   return (
     <div
       aria-hidden
-      className="pointer-events-none fixed z-0 hidden h-64 w-64 rounded-full bg-[radial-gradient(circle,rgba(247,197,205,0.35),rgba(247,197,205,0))] blur-2xl md:block"
+      className="pointer-events-none fixed z-0 hidden h-64 w-64 rounded-full bg-[radial-gradient(circle,rgba(143,54,62,0.5),rgba(143,54,62,0))] blur-2xl md:block"
       style={{
         left: position.x - 128,
         top: position.y - 128,
-        transition: "left 220ms ease-out, top 220ms ease-out",
+        transition: "none",
       }}
     />
   );

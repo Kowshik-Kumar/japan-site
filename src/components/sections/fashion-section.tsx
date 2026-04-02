@@ -21,7 +21,7 @@ export function FashionSection() {
       <Reveal className="relative">
         <div className="relative overflow-hidden rounded-[2rem] border border-white/60 bg-white/50 p-4 shadow-[0_20px_60px_rgba(34,30,33,0.1)] backdrop-blur-md">
           <Image
-            src="/assets/kimono-main.svg"
+            src="/assets/fabric-large.jpeg"
             alt="Layered kimono illustration"
             width={700}
             height={860}
@@ -32,7 +32,7 @@ export function FashionSection() {
 
         <div className="absolute -bottom-8 -left-8 hidden w-44 overflow-hidden rounded-3xl border border-white/60 bg-white/70 p-3 shadow-[0_14px_45px_rgba(32,28,29,0.14)] backdrop-blur-md sm:block">
           <Image
-            src="/assets/kimono-detail.svg"
+            src="/assets/fabric-small.jpeg"
             alt="Kimono pattern detail"
             width={260}
             height={200}

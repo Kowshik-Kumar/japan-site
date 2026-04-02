@@ -38,27 +38,27 @@ export const folktales: Folktale[] = [
 export const galleryItems: GalleryItem[] = [
   {
     title: "Silk Kimono Layers",
-    image: "/assets/gallery-kimono.svg",
+    image: "/assets/gallery-kimono,.jpeg",
     className: "md:col-span-2 md:row-span-2",
   },
   {
     title: "Indigo Patterns",
-    image: "/assets/gallery-pattern.svg",
+    image: "/assets/gallery-indigo.jpeg",
     className: "md:col-span-1 md:row-span-1",
   },
   {
     title: "Lantern Street",
-    image: "/assets/gallery-lantern.svg",
+    image: "/assets/gallery-lantern.jpeg",
     className: "md:col-span-1 md:row-span-1",
   },
   {
     title: "Folklore Masks",
-    image: "/assets/gallery-mask.svg",
+    image: "/assets/gallery-mask.jpeg",
     className: "md:col-span-1 md:row-span-2",
   },
   {
     title: "Sakura Evening",
-    image: "/assets/gallery-sakura.svg",
+    image: "/assets/gallery-sakura-evening.jpeg",
     className: "md:col-span-2 md:row-span-1",
   },
 ];

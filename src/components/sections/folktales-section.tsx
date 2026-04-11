@@ -40,7 +40,12 @@ export function FolktalesSection() {
               <div className="px-1 pb-2 pt-4">
                 <p className="text-xs uppercase tracking-[0.25em] text-[var(--muted-red)]">{story.subtitle}</p>
                 <h3 className="mt-2 font-serif text-2xl text-[var(--charcoal)]">{story.title}</h3>
-                <p className="mt-3 text-sm leading-relaxed text-[var(--ink-soft)]">{story.description}</p>
+                <p
+                  className="mt-3 text-sm leading-relaxed text-[var(--ink-soft)]"
+                  style={{ fontFamily: '"Times New Roman", Times, serif' }}
+                >
+                  {story.description}
+                </p>
                 <div className="mt-5">
                   <Link
                     href={`/folktales/${story.slug}`}

@@ -38,7 +38,11 @@ export default async function FolktaleDetailPage({ params }: FolktalePageProps) 
 
         <div className="space-y-5 px-6 py-8 sm:px-8 sm:py-10">
           {story.fullDescription.map((paragraph) => (
-            <p key={paragraph} className="text-base leading-relaxed text-[var(--ink-soft)] sm:text-lg">
+            <p
+              key={paragraph}
+              className="text-base leading-relaxed text-[var(--ink-soft)] sm:text-lg"
+              style={{ fontFamily: '"Times New Roman", Times, serif' }}
+            >
               {paragraph}
             </p>
           ))}
